@@ -13,5 +13,5 @@
 *.egg-info
 .pytest_cache
 
-# Virtual environment
-venv
+# Virtual environment / we ignore it because it is heavy
+venv 
